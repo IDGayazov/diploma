@@ -1,5 +1,7 @@
 # diploma
 Iterative methods for monotonic nonlinear eigenvalue problems
+
+
 Задача имеeт вид
 
    A(lambda)x = lambda B(lambda), 0<=lambda<=Lambda, x \neq 0\in R^n.
